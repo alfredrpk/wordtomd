@@ -34,7 +34,7 @@ The best way to easily convert Word files to Markdown is Pandoc: a universal doc
 
 <figure>
 <img src="images/image3.png" alt="Picture of pandoc installer finish screen">
-<figcaption>Figure 3: Finish screen of pandoc installer."</figcaption>
+<figcaption>Figure 3: Finish screen of pandoc installer.</figcaption>
 </figure>
 
 6. You've successfully installed pandoc! To confirm you've successfully installed pandoc, first open the terminal. You can do this on Windows by pressing the Windows button, typing "Command Prompt", and clicking on the first result. You can do this similarly on MacOS by searching "Terminal" instead of "Command Prompt"
@@ -43,7 +43,7 @@ The best way to easily convert Word files to Markdown is Pandoc: a universal doc
 
 <figure>
 <img src="images/image4.png" alt="Picture of command prompt output">
-<figcaption>Figure 4: Expected output in command prompt"</figcaption>
+<figcaption>Figure 4: Expected output in command prompt.</figcaption>
 </figure>
 
 {% include footer.md %}

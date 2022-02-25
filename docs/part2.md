@@ -14,7 +14,7 @@ Now that you've fully downloaded and installed Pandoc, you have all the tools ne
 
 <figure>
 <img src="images/image5.png" alt="Picture of the file location">
-<figcaption>Figure 1: Example File Location</figcaption>
+<figcaption>Figure 1: Example File Location.</figcaption>
 </figure>
 
 1. Once you've made note of your file's filepath, open your terminal application. You can do this on Windows by pressing the Windows button, typing "Command Prompt", and clicking on the first result. You can do this similarly on MacOS by searching "Terminal" instead of "Command Prompt"
@@ -23,7 +23,7 @@ Now that you've fully downloaded and installed Pandoc, you have all the tools ne
 
 <figure>
 <img src="images/image6.png" alt="Picture of first command">
-<figcaption>Figure 2: Example cd command on terminal</figcaption>
+<figcaption>Figure 2: Example cd command on terminal.</figcaption>
 </figure>
 
 3. At this point, enter this command with the following syntax into the terminal: ```pandoc -s [INPUT_FILENAME] -t markdown --extract-media=images -o [OUTPUT_FILENAME]```. With this, your converted markdown file will be in the same location as your word document.
