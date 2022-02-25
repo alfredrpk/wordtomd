@@ -17,7 +17,7 @@ The best way to easily convert Word files to Markdown is Pandoc: a universal doc
 
 <figure>
 <img src="images/image2.png" alt="Picture of a BLT sandwich">
-<figcaption>Figure 2: Pandoc website's download screen</figcaption>
+<figcaption>Figure 2: Pandoc website's download screen.</figcaption>
 </figure>
 
 2. Once on the "Installing pandoc" page, click the Download button.
