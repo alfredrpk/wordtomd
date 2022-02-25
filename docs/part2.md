@@ -21,11 +21,20 @@ Now that you've fully downloaded and installed Pandoc, you have all the tools ne
 
 2. With your terminal window open, type in the command ```cd [FILEPATH]```, with the filepath noted earlier, as shown in the figure bwlow. This will direct your terminal to your file's location.
 
+   **NOTE: Replace [FILEPATH] with your file's filepath.**
+
 <figure>
-<img src="images/image6.png" alt="Picture of first command">
+<img src="images/image6.png" alt="Picture of cd command">
 <figcaption>Figure 2: Example cd command on terminal.</figcaption>
 </figure>
 
-3. At this point, enter this command with the following syntax into the terminal: ```pandoc -s [INPUT_FILENAME] -t markdown --extract-media=images -o [OUTPUT_FILENAME]```. With this, your converted markdown file will be in the same location as your word document.
+3. At this point, enter this command with the following syntax, as shown in the figure below, into the terminal: ```pandoc -s [INPUT_FILENAME] -t markdown --extract-media=images -o [OUTPUT_FILENAME]```. With this, your converted markdown file will be in the same location as your word document.
+   
+   **NOTE: Replace [INPUT_FILENAME] with your word file's filename and replace [OUTPUT_FILENAME] with the filename you wish your markdown file to have.**
+
+<figure>
+<img src="images/image7.png" alt="Picture of conversion command">
+<figcaption>Figure 3: Example word to markdown conversion command on terminal.</figcaption>
+</figure>
 
 {% include footer.md %}
